@@ -1,8 +1,11 @@
 ---
 layout:		post
 title:		雲中的故事
-summary:	飄泊的那朵雲,心里藏着珠兒...
-category:	poetry
+date: 2015-05-03 12:12:12
+description:	飄泊的那朵雲,心里藏着珠兒...
+categories:
+- life
+- poetry
 tags:       poetry
 ---
 

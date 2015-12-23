@@ -1,10 +1,15 @@
 ---
 layout:     post
 title:      你像块牛皮糖
-summary:    你像块牛皮糖，闪进我的梦中...
-category:   poetry
-tags:       poetry
+date:       2015-05-02 13:12:34
+description:    你像块牛皮糖，闪进我的梦中...
+categories:
+- life
+- poetry
+
+tags: poetry
 ---
+
 
 你像块牛皮糖，闪进我的梦中
 
