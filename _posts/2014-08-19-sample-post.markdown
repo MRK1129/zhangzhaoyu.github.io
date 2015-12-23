@@ -4,9 +4,9 @@ title:  "我只是为了测试中文的效果"
 date:   2014-08-19 23:56:45
 description: Just a sample post to show some of the typography elements supported from harmony theme.
 tags: markdown
-categories:
-- blog
+categories: blog
 permalink: sample-post
+
 ---
 
 Just a sample post to show some of the *typography* elements supported from 

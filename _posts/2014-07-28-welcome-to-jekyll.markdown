@@ -4,9 +4,8 @@ title:  "What is Jekyll!"
 date:   2014-07-28 22:48:45
 description: Jekyll is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes.
 tags: markdown
-categories:
-- blog
-- jekyll
+categories: blog
+
 ---
 
 [Jekyll][jekyll] is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. Here is a little quote from the official website:
