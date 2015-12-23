@@ -9,9 +9,7 @@ tags:       markdown
 
 # What is Markdown?
 **[Markdown](https://en.wikipedia.org/wiki/Markdown)** is a lightweight markup language with plain text formatting [syntax](http://wowubuntu.com/markdown/) designed so that it can be converted to HTML and many 
-
 other formats using a tool by the same name.We also can use **[pandoc](http://pandoc.org/)** to convert markdown file to PDF format. Next, I will introduce 
-
 the way to do so.
 
 # Install Software(Ubuntu Linux)
