@@ -20,10 +20,10 @@ the way to do so.
 - Install fonts : 要支持中文还需要安装中文字体，比如[文泉驿微黑](http://www.bkjia.com/xtzh/760729.html)，可使用fc-list :lang=zh-cn 查看安装的所有中文字体
 
 # 支持中文的操作
+
 ## Generate Template
 终端输入：
-`
- pandoc -D latex > ~/Templates/pandoc.template.tex
+`pandoc -D latex > ~/Templates/pandoc.template.tex
 `
 
 ## 添加中文支持，
@@ -36,8 +36,7 @@ the way to do so.
  - source .bashrc
 
 ## Generate PDF document
-`
-pandoc source.md -o destination.pdf
+`pandoc source.md -o destination.pdf
 `
 
 # 参考
